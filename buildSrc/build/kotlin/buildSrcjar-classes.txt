@@ -1,0 +1,1 @@
+/Users/user/Documents/projects/RoomCodelab/buildSrc/build/classes/kotlin/main/AppConfig.class:/Users/user/Documents/projects/RoomCodelab/buildSrc/build/classes/kotlin/main/Versions.class
